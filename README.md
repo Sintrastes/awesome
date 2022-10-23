@@ -42,6 +42,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
 
   * [Reflex FRP](https://reflex-frp.org/)
     * I don't know if this is may favorite GUI framework, and it's definitely not the easiest to use (whether or not it _could be_ with more polish, I'm not sure) -- but just for the experience of learning it (like many people say about learning Haskell itself), I'd reccomend playing around with this. It will change the way you think about reactive programming and GUI development. I can say in my experience it has taught me how to use more mainstream frameworks like Kotlin flow more effectively.
+    
+ * [Purescript Refract](https://github.com/pkamenarsky/purescript-refract)
+   * An interesting variation on TEA (The Elm Architecture) making good use of lenses to compose components. Indigo does something similar.
 
 # Programming Languages
     
