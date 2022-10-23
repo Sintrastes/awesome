@@ -26,6 +26,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
     
  * [Knowledge as Code](https://carboncloud.com/2020/12/07/tech-knowledge-as-code/)
      * An interesting perspective on the advantages statically typed functional programming could have on your organization.
+     
+ * [](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html?m=1)
+     * Making fun of enterprise OO may be like [shooting IMarineVertabrates in an AbstractBarrelProxyFactory](https://fsharpforfunandprofit.com/fppatterns/), but I still think this makes a fair point for Java developers to consider in the advantages of more modern multiparadigm languages that don't force everything into a <s>box</s> class.
 
 # UI/UX Design
 
@@ -53,6 +56,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
 
   * [The Optics of Language Integrated Query](https://arxiv.org/abs/2009.00997)
     * Fascinating and really expressive API for a query language, based on optics. Almost reminds me of GraphQL -- I wonder if there's a relationship worth persuing there.
+    
+  * [A comparative study of language support for generic programming](http://aszt.inf.elte.hu/~gsd/s/generic.pdf)
+    * This (and a lot of [later papers](https://dl.acm.org/doi/10.1017/S0956796806006198) built around the same idea) examines different language's capabilities in the relm of generic programming. I find this very helpful when thinking about things like "What don't I like about language X" or "What feature do I wish language X had" in that specific terms are introduced (such as "Retroactive modeling") that can be used to discuss these ideas with greater clarity. 
 
 # Programming Languages
     
