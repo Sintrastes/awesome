@@ -67,3 +67,10 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
 ## Kotlin
 
 ## Rust
+
+# Math
+
+## Math History
+
+  * [Richard Montague: The simplicity of language, the complexity of life](https://www.richardmontague.com/)
+    * Sample from a WIP biography being written of Richard Montague. 
