@@ -59,6 +59,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
     
   * [A comparative study of language support for generic programming](http://aszt.inf.elte.hu/~gsd/s/generic.pdf)
     * This (and a lot of [later papers](https://dl.acm.org/doi/10.1017/S0956796806006198) built around the same idea) examines different language's capabilities in the relm of generic programming. I find this very helpful when thinking about things like "What don't I like about language X" or "What feature do I wish language X had" in that specific terms are introduced (such as "Retroactive modeling") that can be used to discuss these ideas with greater clarity. 
+    
+  * [JavaGI](https://dl.acm.org/doi/10.1145/1985342.1985343)
+    * Looks at how to incorporate ideas from functional programming (typeclasses) into Java's existing mechanism of interfaces.
 
 # Programming Languages
     
@@ -78,6 +81,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
     
   * [Flix](https://flix.dev/)
     * A proper Hindley-Milner ML for the JVM with logic programming capabilities and an effect system. Potentially of interest to Android devs as it can target earlier Java bytecode -- but I'm not sure what the FFI story with Java is like. 
+    
+  * [Genus](https://www.cs.cornell.edu/projects/genus/)
+    * A language expounding upon the ideas of JavaGI. 
 
 ## Haskell
 
