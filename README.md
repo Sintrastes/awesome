@@ -24,10 +24,16 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
   * [The future of software, the end of apps, and why UX designers should care about type theory](https://pchiusano.github.io/2013-05-22/future-of-software.html)
     * Applications of type theory? Democratization of software development? Making it easier to glue together functionality without a lot of boilerplate, rather than sandboxing everything into black-box "apps"? Yeah -- safe to say this hits a lot of "awesome" points in my book. Also, I feel like this is very similar in theme to the above post by Petricek.
     
-# PL Research Languages
+# Research (Or just cool) Languages
 
   * [Koka](https://koka-lang.github.io/koka/doc/index.html)
     * Really innovative optimization (reuse analysis) that in many cases can convert functional style code to runtime-less C that mutates in place.
+
+  * [MarkovJunior](https://github.com/mxgmn/MarkovJunior)
+    * A language that somehow combines the work of Andrey Markov Jr. (think the Russian School of constructive mathematics), and (by way of a probabalistic interpretation of Markov Algorithms) Andrey Markov Sr. (Think Markov Networks, Hidden Markov Models). This is unbelievably <s>nerdy</s> cool. Also, look at those example gifs! If I don't use this some day (or something similar) for procedural generation of game worlds, I'll be dissapointed in myself.
+
+  * [Refal](https://en.wikipedia.org/wiki/Refal)
+    * A language nearly as old as Fortran and Lisp, built on a completely different paradigm (Markov Algorithms) than anything I've ever seen. Why does no one talk about this? 
 
 # Haskell
 
