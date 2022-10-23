@@ -32,7 +32,10 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
 
  * [Developer tools can be magic. Instead, they collect dust](https://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html)
    * Why settle for lackluster developer tooling? This post has some excellent examples of innovative developer tooling that (unfortounately) are currently rather bitrotten, and has some discussion of why this is currently the case.  
-
+   
+ * [The Lost Elegance Of Computation](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)
+   * Interview with Conal Elliott, one of the progenitors of Functional Reactive Programming. Includes an explanation of his radical approach to software design based off of denotational semantics, thoughts on the current state of PL research, and his general philosophy of Computer Science.
+   
 # UI/UX Design
 
   * [7 GUIs](https://eugenkiss.github.io/7guis/)
@@ -57,6 +60,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
 
  * [Eve](https://witheve.com/)
    * A fascinating project testing the depths of how user-friendly we can make UI/App development. Fantastic DX/Debugging concepts and experience. Unfortountely the project was canned, but I can only hope future projects learn some of these same lessons. 
+ 
+ * [Fudgets](https://www.altocumulus.org/Fudgets/)
+   * Very early (perhaps _the_ earliest?) approach to a truly functional approach to UI design, dating from the early 1990's.
 
 # CS Papers
 
@@ -98,9 +104,20 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
 
 ## Kotlin
 
+  * [Kotest](https://kotest.io/)
+    * Very nice testing framework for Kotlin, supporting everything from property-based to non-deterministic testing.
+
+  * [Arrow](https://arrow-kt.io/)
+    * Collection of utilities for functional programming in Kotlin -- including support for optics.
+    
+  * [Http4k](https://www.http4k.org/)
+    * Simple HTTP framework based on the idea of a server request/response handler as a function.
+
 ## Rust
 
 # Math
+
+## Category Theory Papers
 
 ## Math History
 
