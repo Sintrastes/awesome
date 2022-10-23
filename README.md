@@ -1,6 +1,4 @@
-# Nate's Awesome List
-
-![Awesome](https://awesome.re/badge.svg)
+# Nate's Awesome List ![Awesome](https://awesome.re/badge.svg)
 
 My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) in a variety of topics.
 
@@ -46,6 +44,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
 
   * [Another Look Through Optics](https://medium.com/@wigahluk/another-look-through-optics-ffd253336e9c)
     * Really interesting perspective (and potential application) of profunctor optics by looking at them through the lens of the profunctors themselves.
+   
+  * [Monadic profunctors for bidirectional programming](https://blog.poisson.chat/posts/2017-01-01-monadic-profunctors.html)
+    * Another really interesting application of profunctors that I don't think has been fully explored.
    
 # UI/UX Design
 
