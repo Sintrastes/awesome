@@ -35,6 +35,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
    
  * [The Lost Elegance Of Computation](https://www.typetheoryforall.com/2022/05/09/17-The-Lost-Elegance-of-Computation-(Conal-Elliott).html#1fe23b61)
    * Interview with Conal Elliott, one of the progenitors of Functional Reactive Programming. Includes an explanation of his radical approach to software design based off of denotational semantics, thoughts on the current state of PL research, and his general philosophy of Computer Science.
+
+ * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
+   * Excellent talk on how to design your system to be testable. 
    
 # UI/UX Design
 
