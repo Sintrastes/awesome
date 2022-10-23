@@ -4,7 +4,7 @@
 
 My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main/awesome.md) in a variety of topics.
 
-# Software Engineering
+# Software Engineering / Architecture
 
   * [A Few Thoughts About Path Coverage](https://blog.regehr.org/archives/386)
     * Some interesting thoughts on what it means for a code-base to really be thoroughly unit-tested.
@@ -30,6 +30,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
  * [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html?m=1)
      * Making fun of enterprise OO may be like [shooting IMarineVertabrates in an AbstractBarrelProxyFactory](https://fsharpforfunandprofit.com/fppatterns/), but I still think this makes a fair point for Java developers to consider in the advantages of more modern multiparadigm languages that don't force everything into a <s>box</s> class.
 
+ * [Developer tools can be magic. Instead, they collect dust](https://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html)
+   * Why settle for lackluster developer tooling? This post has some excellent examples of innovative developer tooling that (unfortounately) are currently rather bitrotten, and has some discussion of why this is currently the case.  
+
 # UI/UX Design
 
   * [7 GUIs](https://eugenkiss.github.io/7guis/)
@@ -47,10 +50,13 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
     * An Elm-like engine in Scala for pixel art games. A lot of interesting work has been done here on optimization. Functional indie game devs rejoice!
 
   * [Reflex FRP](https://reflex-frp.org/)
-    * I don't know if this is may favorite GUI framework, and it's definitely not the easiest to use (whether or not it _could be_ with more polish, I'm not sure) -- but just for the experience of learning it (like many people say about learning Haskell itself), I'd reccomend playing around with this. It will change the way you think about reactive programming and GUI development. I can say in my experience it has taught me how to use more mainstream frameworks like Kotlin flow more effectively.
+    * I don't know if this is my favorite GUI framework, and it's definitely not the easiest to use (whether or not it _could be_ with more polish, I'm not sure) -- but just for the experience of learning it (like many people say about learning Haskell itself), I'd reccomend playing around with this. It will change the way you think about reactive programming and GUI development. I can say in my experience it has taught me how to use more mainstream frameworks like Kotlin flow more effectively.
     
  * [Purescript Refract](https://github.com/pkamenarsky/purescript-refract)
    * An interesting variation on TEA (The Elm Architecture) making good use of lenses to compose components. Indigo does something similar.
+
+ * [Eve](https://witheve.com/)
+   * A fascinating project testing the depths of how user-friendly we can make UI/App development. Fantastic DX/Debugging concepts and experience. Unfortountely the project was canned, but I can only hope future projects learn some of these same lessons. 
 
 # CS Papers
 
