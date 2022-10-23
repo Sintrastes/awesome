@@ -23,6 +23,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
     
   * [The future of software, the end of apps, and why UX designers should care about type theory](https://pchiusano.github.io/2013-05-22/future-of-software.html)
     * Applications of type theory? Democratization of software development? Making it easier to glue together functionality without a lot of boilerplate, rather than sandboxing everything into black-box "apps"? Yeah -- safe to say this hits a lot of "awesome" points in my book. Also, I feel like this is very similar in theme to the above post by Petricek.
+    
+ * [Knowledge as Code](https://carboncloud.com/2020/12/07/tech-knowledge-as-code/)
+     * An interesting perspective on the advantages statically typed functional programming could have on your organization.
 
 # UI/UX Design
 
@@ -45,6 +48,11 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
     
  * [Purescript Refract](https://github.com/pkamenarsky/purescript-refract)
    * An interesting variation on TEA (The Elm Architecture) making good use of lenses to compose components. Indigo does something similar.
+
+# CS Papers
+
+  * [The Optics of Language Integrated Query](https://arxiv.org/abs/2009.00997)
+    * Fascinating and really expressive API for a query language, based on optics. Almost reminds me of GraphQL -- I wonder if there's a relationship worth persuing there.
 
 # Programming Languages
     
