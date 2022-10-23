@@ -27,7 +27,7 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
  * [Knowledge as Code](https://carboncloud.com/2020/12/07/tech-knowledge-as-code/)
      * An interesting perspective on the advantages statically typed functional programming could have on your organization.
      
- * [](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html?m=1)
+ * [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html?m=1)
      * Making fun of enterprise OO may be like [shooting IMarineVertabrates in an AbstractBarrelProxyFactory](https://fsharpforfunandprofit.com/fppatterns/), but I still think this makes a fair point for Java developers to consider in the advantages of more modern multiparadigm languages that don't force everything into a <s>box</s> class.
 
 # UI/UX Design
