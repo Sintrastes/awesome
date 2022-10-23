@@ -58,6 +58,12 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
 
   * [Refal](https://en.wikipedia.org/wiki/Refal)
     * A language nearly as old as Fortran and Lisp, built on a completely different paradigm (Markov Algorithms) than anything I've ever seen. Why does no one talk about this? 
+    
+  * [Ante](https://antelang.org/)
+    * Very promising looking language which tries to bridge the gap bewtween low-level languages (like Rust) and high-level languages (like Haskell, OCaml). Has a very interesting memory management model -- looks to me kind of "like Rust, but less hand-to-hand combat with the borrow checker". Also has refinement types with type inference.
+    
+  * [Flix](https://flix.dev/)
+    * A proper Hindley-Milner ML for the JVM with logic programming capabilities and an effect system. Potentially of interest to Android devs as it can target earlier Java bytecode -- but I'm not sure what the FFI story with Java is like. 
 
 ## Haskell
 
