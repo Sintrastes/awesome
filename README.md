@@ -14,6 +14,15 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
     
   * [Sum Types are Not a Silver Bullet](https://sintrastes.github.io/blog/posts/2021-07-19-sum_types_are_not_a_silver_bullet.html)
     * This is something I wrote -- but I think it's an incredibly important lesson when trying to architect applications and systems in a functional style.
+
+  * [Abstraction: Not What You Think It Is](https://www.pathsensitive.com/2022/03/abstraction-not-what-you-think-it-is.html)
+    * People in the software engineering community (especially in the context of object-oriented programming) often talk about code as being "too abstract" -- but is that really the issue? This post gives a fascinating analysis of the different things that people mean when they talk about "abstraction" in software engineering, and forces you to define your terms (and maybe ask others to define their ters) for clearer discussions. 
+    
+  * [No-code, no thought Substrates for simple programming for all](http://tomasp.net/blog/2022/no-code-substrates/)
+    * An interesting take on the "no/low code revolution" that will inspire you to think of ways to make your application more flexible and your capabilities for customization more discoverable -- or at least that's what I got out of it.
+    
+  * [The future of software, the end of apps, and why UX designers should care about type theory](https://pchiusano.github.io/2013-05-22/future-of-software.html)
+    * Applications of type theory? Democratization of software development? Making it easier to glue together functionality without a lot of boilerplate, rather than sandboxing everything into black-box "apps"? Yeah -- safe to say this hits a lot of "awesome" points in my book. Also, I feel like this is very similar in theme to the above post by Petricek.
     
 # PL Research Languages
 
