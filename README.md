@@ -87,6 +87,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
   * [JavaGI](https://dl.acm.org/doi/10.1145/1985342.1985343)
     * Looks at how to incorporate ideas from functional programming (typeclasses) into Java's existing mechanism of interfaces.
 
+  * [Quickstrom: Property-based Acceptance Testing with LTL Specifications](https://arxiv.org/pdf/2203.11532.pdf)
+    * Looks at practical property-based testing of temporal properties based off of a 4-valued graded modal logic.
+
 # Programming Languages
     
 ## Research (Or just cool) Languages
