@@ -9,6 +9,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
   * [A Few Thoughts About Path Coverage](https://blog.regehr.org/archives/386)
     * Some interesting thoughts on what it means for a code-base to really be thoroughly unit-tested.
     
+  * [Unit testing isn't enough. You need static typing too](http://evanfarrer.blogspot.com/2012/06/unit-testing-isnt-enough-you-need.html)
+    * An interesting case study showing the benefits of static typing. Also interesting to me is the fact of how the Python projects studied could essentially be translated more-or-less directly into Haskell -- there were not any dynamic typing idioms that the Haskell type system was "too restrictive" to handle.
+    
   * [3 tribes of programming](https://josephg.com/blog/3-tribes/)
     * Incredibly elucidating analysis of the cultural divides within the software engineering community. Also, explains why I really like Rust. :)
     
