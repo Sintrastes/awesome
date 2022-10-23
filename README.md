@@ -104,6 +104,12 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
 
   * [Learn You a Haskell For Great Good](http://learnyouahaskell.com/)
     * Maybe somewhat outdated, but a very good and gentle introduction to the language. Also, it's free to read online, so you have no excuse!
+    
+  * [A Purely Functional Typed Approach to Trainable Models](https://blog.jle.im/entry/purely-functional-typed-models-1.html)
+    * A very intuitive introducion to the concepts behind machine learning, introduced in Haskell! Shows how many different types of machine learning models (such as RNNs) can be understood in terms of common functiona programming constructs.
+    
+  * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
+    * Another post on deep learning in Haskell. For a whole awesome list of stuff like this, see [here](https://github.com/austinvhuang/awesome-haskell-deep-learning). 
 
 ## Kotlin
 
@@ -115,6 +121,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
     
   * [Http4k](https://www.http4k.org/)
     * Simple HTTP framework based on the idea of a server request/response handler as a function.
+    
+  * [KotlinGrad](https://github.com/breandan/kotlingrad)
+    * Type-safe automatic differentiation in Kotlin.
 
 ## Rust
 
