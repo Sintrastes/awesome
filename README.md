@@ -42,6 +42,11 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
  * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
    * Excellent talk on how to design your system to be testable. 
    
+# Functional Programming
+
+  * [Another Look Through Optics](https://medium.com/@wigahluk/another-look-through-optics-ffd253336e9c)
+    * Really interesting perspective (and potential application) of profunctor optics by looking at them through the lens of the profunctors themselves.
+   
 # UI/UX Design
 
   * [7 GUIs](https://eugenkiss.github.io/7guis/)
