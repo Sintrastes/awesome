@@ -40,6 +40,12 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
  * [Boundaries](https://www.destroyallsoftware.com/talks/boundaries)
    * Excellent talk on how to design your system to be testable. 
    
+ * [Functional architecture: a definition](https://blog.ploeh.dk/2018/11/19/functional-architecture-a-definition/)
+   * What is meant by functional design/architecture? Mark Seemann gives a simple, falsifiable definition.
+
+ * [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+   * An introduction to an idea I consider a core tenant of good functional design/architecture -- which is applicable across many different languages.
+   
 # Functional Programming
 
   * [Another Look Through Optics](https://medium.com/@wigahluk/another-look-through-optics-ffd253336e9c)
