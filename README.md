@@ -46,6 +46,8 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
  * [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
    * An introduction to an idea I consider a core tenant of good functional design/architecture -- which is applicable across many different languages.
    
+ * [Functional Design and Architecture](https://www.manning.com/books/functional-design-and-architecture)  
+   
 # Functional Programming
 
   * [Another Look Through Optics](https://medium.com/@wigahluk/another-look-through-optics-ffd253336e9c)
