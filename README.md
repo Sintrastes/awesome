@@ -42,6 +42,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
    
  * [Functional architecture: a definition](https://blog.ploeh.dk/2018/11/19/functional-architecture-a-definition/)
    * What is meant by functional design/architecture? Mark Seemann gives a simple, falsifiable definition.
+   
+ * [A Modern Architecture for FP](https://degoes.net/articles/modern-fp)
+   * Another approach to functional architecture.
 
  * [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
    * An introduction to an idea I consider a core tenant of good functional design/architecture -- which is applicable across many different languages.
