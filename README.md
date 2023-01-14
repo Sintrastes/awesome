@@ -101,6 +101,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
   * [Quickstrom: Property-based Acceptance Testing with LTL Specifications](https://arxiv.org/pdf/2203.11532.pdf)
     * Looks at practical property-based testing of temporal properties based off of a 4-valued graded modal logic.
 
+  * [Feature-Oriented Programming with Object Algebras](https://www.cs.utexas.edu/~wcook/Drafts/2012/FOPwOA.pdf)
+    * A fascinating application of object algebras. 
+
 # Programming Languages
     
 ## Research (Or just cool) Languages
