@@ -154,6 +154,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
 
 ## Category Theory Papers
 
+  * [Towards a Common Categorical Semantics for Linear-Time Temporal Logic and Functional Reactive Programming](https://dl.acm.org/doi/10.1016/j.entcs.2012.08.015) [(talk)](https://kodu.ut.ee/~varmo/tday-nelijarve/jeltsch-slides.pdf)
+    * The curry-howard correspondant of LTL (linear-time temporal logic) is functional reactive programming. 
+
 ## Math History
 
   * [Richard Montague: The simplicity of language, the complexity of life](https://www.richardmontague.com/)
