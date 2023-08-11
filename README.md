@@ -171,4 +171,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
 ## Math History
 
   * [Richard Montague: The simplicity of language, the complexity of life](https://www.richardmontague.com/)
-    * Sample from a WIP biography being written of Richard Montague. 
+    * Sample from a WIP biography being written of Richard Montague.
+
+# Urbanism
+
+  * [Large Scale, Small Scale](https://www.strongtowns.org/journal/2022/5/23/large-scale-small-scale)
+    * An interesting look into of the importance of relatively "large" urbanist buildings like locally-owned town hotels had historically in small towns, and why new construction like this might seem out of place today to NIMBYs. Hits close to home for me because the small town I currently live in had a small, locally-owned hotel just like this that regrettably closed during covid.
