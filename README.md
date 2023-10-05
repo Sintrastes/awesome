@@ -64,6 +64,9 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
   * [Monadic profunctors for bidirectional programming](https://blog.poisson.chat/posts/2017-01-01-monadic-profunctors.html)
     * Another really interesting application of profunctors that I don't think has been fully explored.
    
+  * [Sum Types In SQL](https://www.parsonsmatt.org/2019/03/19/sum_types_in_sql.html)
+    * Interesting ideas on how to encode functional data structures (such as sum types) in relational databases. This is also the only place I've seen that discusses application of normal forms in relational database theory in a wider context (functional programming).
+   
 # UI/UX Design
 
   * [7 GUIs](https://eugenkiss.github.io/7guis/)
