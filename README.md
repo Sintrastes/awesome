@@ -55,7 +55,7 @@ My own personal [awesome list](https://github.com/sindresorhus/awesome/blob/main
    
 # Functional Programming
 
-  * [The Misunderstood Roots of FRP Can Save Programming](https://futureofcoding.org/essays/dctp.html](https://web.archive.org/web/20240318093250/https://futureofcoding.org/essays/dctp.html)
+  * [The Misunderstood Roots of FRP Can Save Programming](https://web.archive.org/web/20240318093250/https://futureofcoding.org/essays/dctp.html)
     * A bit of a grandiloquent title, but a fascinating read nevertheless. You'll learn about the roots of functional reactive programming, and see how many modern iterations of the idea (such as rxJava) are far removed from its roots. You'll also learn about "denotative programming", an alternative and somewhat more specific characterizaton of the "functional" and "declarative" paradigms. My favorite quote from it:
  
  > Denotative languages better convey the global structure of a program. We can fully understand an expression by its subexpressions, and their subexpressions, recursively. There are no spooky action-at-a-distance side-effects that can manipulate things from afar. We don’t have to read the entire codebase to ensure we understand a single piece; we must merely read its subexpressions, recursively. This allows us to quickly rule out what we do and do not need to read, saving us a lot of time in large codebases.
